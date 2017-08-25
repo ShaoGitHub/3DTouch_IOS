@@ -13,7 +13,7 @@ Xcode7或以上，iOS9或以上，iPhone6s或以上
 -------------
 #### 静态设置</br>
 静态设置方式如下图所示：
-![demo1](/resouse/demo1.png)
+![demo1](/resouse/demo.png)
 
 下面是各个标签类型的说明，plist文件里还没提供UIApplicationShortcutItems选项，没办法，只能手动敲了，或者直接复制粘贴过去。
 UIApplicationShortcutItems：数组中的元素就是我们的那些快捷选项标签。
