@@ -1,4 +1,4 @@
-# 3-DTouch_IOS
+# 3DTouch_IOS
 对集成3DTouch的简单讲解
 
 @(3-DTouch_IOS)[3DTouch|IOS|iphone6s]
